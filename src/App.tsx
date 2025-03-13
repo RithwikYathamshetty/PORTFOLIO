@@ -92,7 +92,7 @@ function App() {
           >
             <div className="absolute -inset-1 bg-gradient-to-r from-primary to-primary-light rounded-full blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200" />
             <img
-              src="/Profile.jpg"
+              src="src\Profile.jpg"
               alt="Rithwik Yathamshetty"
               className="w-48 h-48 rounded-full object-cover relative z-10 border-2 border-primary/50"
             />
